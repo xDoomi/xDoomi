@@ -16,11 +16,6 @@ VS Code                  1 hr 59 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 Neovim                   0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.39 % 
 ```
 
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/xDoomi/xDoomi/main/assets/bar_graph.png)
-
-
  Last Updated on 06/09/2023 21:26:34 UTC
 <!--END_SECTION:waka-->
 
