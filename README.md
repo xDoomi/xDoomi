@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%208%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -16,7 +16,8 @@ VS Code                  1 hr 59 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 Neovim                   0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.39 % 
 ```
 
- Last Updated on 06/09/2023 21:26:34 UTC
+
+ Last Updated on 07/09/2023 18:31:14 UTC
 <!--END_SECTION:waka-->
 
 <!--
