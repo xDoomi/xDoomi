@@ -1,3 +1,5 @@
+### I don't care what neural network I will train -> [tg:@xDoomi](https://t.me/xDoomi)
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%208%20mins-blue)
 
