@@ -9,15 +9,14 @@
 🕑︎ Time Zone: Asia/Tbilisi
 
 💬 Programming Languages: 
-YAML                     7 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   51.89 % 
-Python                   7 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   48.11 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  15 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 29/12/2023 01:00:00 UTC
+ Last Updated on 30/12/2023 01:08:25 UTC
 <!--END_SECTION:waka-->
 
 <!--
