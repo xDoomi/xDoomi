@@ -1,7 +1,7 @@
 ### I don't care what neural network I will train -> [tg:@xDoomi](https://t.me/xDoomi)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-153%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-155%20hrs%2045%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -9,15 +9,15 @@
 🕑︎ Time Zone: Asia/Tbilisi
 
 💬 Programming Languages: 
-Python                   3 hrs 20 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀   93.89 % 
-CSV                      13 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.11 % 
+Python                   4 hrs 54 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀   95.76 % 
+CSV                      13 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.24 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 33 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+VS Code                  5 hrs 7 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
 
- Last Updated on 01/03/2024 01:12:22 UTC
+ Last Updated on 02/03/2024 01:04:57 UTC
 <!--END_SECTION:waka-->
 
 <!--
