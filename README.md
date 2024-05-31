@@ -1,7 +1,7 @@
 ### I don't care what neural network I will train -> [tg:@xDoomi](https://t.me/xDoomi)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-271%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-271%20hrs%2016%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -20,7 +20,7 @@ VS Code                  19 hrs 30 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ```
 
 
- Last Updated on 30/05/2024 01:13:43 UTC
+ Last Updated on 31/05/2024 01:14:29 UTC
 <!--END_SECTION:waka-->
 
 <!--
