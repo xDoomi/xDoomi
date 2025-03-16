@@ -1,12 +1,12 @@
 ### I don't care what neural network I will train -> [tg:@xDoomi](https://t.me/xDoomi)
 
-<!--START_SECTION:waka-->
+<!--START_SECTION:wak
 ![Code Time](http://img.shields.io/badge/Code%20Time-536%20hrs%2053%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Europe/Warsaw
+🕑︎ Time Zone: Europe/Warsawhttp://img.shields.io/badge/Code%20Time-536%20hrs%2053%20mins-blue
 
 💬 Programming Languages: 
 Python                   1 hr 27 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   98.06 % 
@@ -20,7 +20,7 @@ VS Code                  1 hr 29 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 
 
  Last Updated on 16/03/2025 01:46:54 UTC
-<!--END_SECTION:waka-->
+END_SECTION:waka-->
 
 <!--
 **xDoomi/xDoomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
